@@ -109,8 +109,7 @@ languages:
     weight: 3
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights
-      Reserved.
+    copyright: 
     languageCode: en-US
     languageName: English
     menu:
