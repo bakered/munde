@@ -37,14 +37,6 @@ featured_service:
     icon: ion-lightbulb
     name: Game Development
 layout: service
-menu:
-  footer:
-    name: Service
-    weight: 3
-  main:
-    name: Service
-    parent: More
-    weight: 1
 service:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove

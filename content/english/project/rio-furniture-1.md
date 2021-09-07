@@ -19,7 +19,7 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: Rio Furniture
+title: RSVP
 ---
 
 ## Behance Website Redesign

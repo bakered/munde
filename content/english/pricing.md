@@ -5,14 +5,6 @@ cta:
 description: this is meta description
 draft: false
 layout: pricing
-menu:
-  footer:
-    name: Pricing
-    weight: 4
-  main:
-    name: Pricing
-    parent: More
-    weight: 2
 pricing:
   enable: true
   pricing_table:
