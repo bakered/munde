@@ -48,8 +48,8 @@ params:
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
   image: images/logo.png
-  logo: images/logo.png
-  logo_width: 150px
+  logo: images/logom_e.png
+  logo_width: 90px
   plugins:
     css:
       - attributes: media='screen'

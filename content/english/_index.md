@@ -13,7 +13,7 @@ banner:
     enable: true
     label: RSVP
     link: 2021-09-06-rsvp
-  content: 6th August 2022 at Hale House, Kirkby Thore, Penrith, CA10 1XS
+  content: 6th August 2022 <br/> Hale House, Kirkby Thore, Penrith, CA10 1XS
   enable: true
   title: Mirja <br/> & Ed
 menu:

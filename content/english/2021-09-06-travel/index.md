@@ -21,8 +21,8 @@ menu:
 
 ## Travel to Cumbria
 
-Manchester, Glasgow and Leeds airports are all approximately 2 hours drive from the wedding location but Manchester has the most flights. You can get the train to from Manchester to Penrith which is a 20 minute drive to the wedding location. Let us know if you are interested in sharing rides and we can look into organising travel either from Manchester Airport or Penrith Train Station on Friday or Saturday Morning.
+Manchester, Glasgow and Leeds airports are all approximately 2 hours drive from the wedding location but Manchester has the most flights. You can get the train from Manchester to Penrith which is a 20 minute drive to the wedding location. Let us know if you are interested in sharing rides and we can look into organising travel either from Manchester Airport or Penrith Train Station on Friday or Saturday Morning.
 
-## Travel to and from Accomadation
+## Travel to and from Accomodation
 
 If you are camping or glamping then you need only walk to your tent. If you are staying elsewhere in the Eden Valley and are interested in taxi sharing then let us know. 

@@ -17,6 +17,11 @@ menu:
 
 <div class="container">
     <div class="row">
+    <div class="col-md-5 col-sm-12">
+      <div class="block">
+        <img src="/images/tent.jpg" class="img-responsive" alt="Img">
+      </div>
+    </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
         <h2 class="mt-40">Bring Your Own Tent/Van </h2>
@@ -24,11 +29,6 @@ menu:
         <p>You can camp in the field/garden. Set up whenever you want, showers and teas & coffees available in the house.</p>
       </div>
      </div>
-     <div class="col-md-5 col-sm-12">
-      <div class="block">
-        <img src="/images/tent.jpg" class="img-responsive" alt="Img">
-      </div>
-    </div>
   </div>
 </div>
 <br>
@@ -50,6 +50,11 @@ menu:
 </div>
 <div class="container">
     <div class="row">
+    <div class="col-md-5 col-sm-12">
+      <div class="block">
+        <img src="/images/wrapper-img.png" class="img-responsive" alt="Img">
+      </div>
+    </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
         <h2 class="mt-40">Other Options</h2>
@@ -76,11 +81,6 @@ menu:
         <p>some info about some options Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation .</p>
       </div>
      </div>
-     <div class="col-md-5 col-sm-12">
-      <div class="block">
-        <img src="/images/wrapper-img.png" class="img-responsive" alt="Img">
-      </div>
-    </div>
   </div>
 </div>
 
