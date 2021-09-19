@@ -13,20 +13,20 @@ menu:
     weight: 6
 ---
 
-If you have any questions feel free to contact our wedding planner Fred Faker.
-</br>
-</br>
-  
-|  Fred Faker:    |  |
-| ----------- | ----------- |
-| Email      | munde.weddings@gmail.com      |
-| Phone &nbsp;&nbsp;&nbsp;&nbsp;  | +4915226297951      |
-</br> 
-</br>
-</br>
-
-|  Mirja Stehnken:    |  |
-| ----------- | ----------- |
-| Email      | mirja.stehnken@gmail.com      |
-| Phone &nbsp;&nbsp;&nbsp;&nbsp;  |      |
-| Address &nbsp;&nbsp;&nbsp;&nbsp;  | Finowstraße 26 </br> 12045 Berlin   |
+<div class="container">
+    <div class="row">
+    <div class="col-md-6 col-sm-12">
+      <div class="block">
+        <p>If you have any questions feel free to contact our wedding planner Fred Faker.</p>
+Email: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; munde.weddings@gmail.com </br>
+Phone: &nbsp;&nbsp;&nbsp;&nbsp; +4915226297951 </br>
+      </div>
+     </div>
+     <div class="col-md-5 col-sm-12">
+      <div class="block">
+        <img src="/images/fred_faker.jpg" class="img-responsive" alt="Fred Faker">
+        <figcaption>Professional Wedding Planner Fred Faker</figcaption>
+      </div>
+    </div>
+  </div>
+</div>
