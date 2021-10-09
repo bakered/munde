@@ -25,7 +25,7 @@ Phone: &nbsp;&nbsp;&nbsp;&nbsp; +4915226297951 </br>
      <div class="col-md-5 col-sm-12">
       <div class="block">
         <img src="/images/fred_faker.jpg" class="img-responsive" alt="Fred Faker">
-        <figcaption>Professional Wedding Planner Fred Faker</figcaption>
+        <figcaption></figcaption>
       </div>
     </div>
   </div>

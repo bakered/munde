@@ -1,5 +1,24 @@
 .about{
+  .pics{
+    width: 100%; 
+    margin: 6px auto; padding: 2px;
+    text-align: center;
+    img{
+      width: 360px;
+      height: 360px;
+      padding: 8px;
+      display: inline;
+    }
+  }
+  .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+  }
+  
   .block{
+    margin: auto;
+    
     h2 {
       padding-top: 30px;
       padding-bottom: 30px;
@@ -9,10 +28,17 @@
     p {
       padding-top: 0px;
       line-height:28px;
+      text-align: center;
+    }
+    
+    hr {
+      width: 50%;
     }
 
     img {
-      width: 100%;
+      width: 360px;
+      height: 360px;
+      display: inline;
     }
   }
 

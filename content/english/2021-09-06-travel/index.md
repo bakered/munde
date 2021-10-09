@@ -5,7 +5,7 @@ date: '2021-09-06'
 slug: []
 categories: []
 tags: []
-bg_image: images/cornflower_poppy.png
+bg_image: images/malin_art.png
 menu:
   main:
     name: Travel
