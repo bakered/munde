@@ -2,7 +2,7 @@
 about:
   content: " 
   <p>Ceremony in the Garden at 3PM </p>
-  <p>Reception and Party to follow.</p> 
+  <p>BBQ, drinks and dancing to follow.</p> 
   <hr>
   <p>Wear whatever you like - we will be wearing a suit and dress respectively.</p> 
   <p>It has been known to be cold and rainy in August so check the weather forecast!</p>
@@ -20,7 +20,7 @@ banner:
     enable: true
     label: RSVP
     link: 2021-09-06-rsvp
-  content: 6th August 2022 <br/> Hale House, Kirkby Thore, Penrith, CA10 1XS
+  content: 6 August 2022 <br/> Hale House, Kirkby Thore, Penrith, CA10 1XS
   enable: true
   title: Mirja <br/> & Ed
 menu:
@@ -32,9 +32,4 @@ menu:
     weight: 1
 ---
 
-
-
-<p>If you have any questions feel free to contact our wedding planner Fred Faker.</p>
-Where: Hale House, Kirkby Thore, Penrith, CA10 1XS <br/>
-When: 6th August 2022 3PM 
   

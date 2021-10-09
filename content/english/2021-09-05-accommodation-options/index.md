@@ -17,7 +17,7 @@ menu:
 <head>
 <style>
 a:link {
-  color: blue;
+  color: black;
   background-color: transparent;
   text-decoration: underline;
 }
