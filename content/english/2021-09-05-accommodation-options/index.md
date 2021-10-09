@@ -42,7 +42,7 @@ a:active {
 
 <div class="container">
       <div class="block">
-        <p>Hale House is located in <a href="http://www.visiteden.co.uk/explore-eden/the-eden-valley">the Eden Valley</a> between the Pennines and the Lake District. Then nearest towns are Penrith (20 mins drive) and Appleby (12 mins drive). Here are some suggestions of places to stay:</p>
+        <p>Hale House is located in <a href="http://www.visiteden.co.uk/explore-eden/the-eden-valley">the Eden Valley</a> between the Pennines and the Lake District. The nearest towns are Penrith (20 mins drive) and Appleby (12 mins drive). Here are some suggestions of places to stay:</p>
         <h2 class="mt-40">Stay on Site</h2>
         For the shortest possible post wedding journey.
   </div>
@@ -77,7 +77,7 @@ a:active {
     <div class="block">
       <h3 class="mt-40">Glamping</h3>
         <p>£40 - £100 per person </p>
-        <p>Let us know if you are interested in a having a glamping tent set up for you and we can set you up with the local glamping dealers. You can get a 5 metre bell tent for about £200 which could sleep up to 6. Or a 4 person tent for £155 or a two person tent for. If you are interested, let us know and we can provide you with a more detailed menu of options.</p>
+        <p>Let us know if you are interested in having a glamping tent set up for you and we can organise it with the local glamping dealers. You can get a 5 metre bell tent for about £200 which could sleep up to 6. Or a 4 person tent for £155 or a two person tent for. If you are interested, let us know and we can provide you with a more detailed menu of options.</p>
     </div>
   </div>
 </div>
@@ -87,6 +87,7 @@ a:active {
     <div class="col-md-6 col-sm-12">
       <div class="block">
         <h2 class="mt-40">Further Afield</h2>
+        <p> If your staying longer and/or if you would like more comfort. </p>
         <h3 class="mt-40">Hotels in Penrith</h3>
         <ul>
           <li><a href="https://www.premierinn.com/gb/en/hotels/england/cumbria/penrith/penrith.html?cid=GLBC_PENNEW">Premier Inn, Penrith</a> 4.3/5 stars on google reviews ~£45 per night</li> 
@@ -117,7 +118,7 @@ a:active {
         <h3 class="mt-40">Center Parks</h3>
         <p>Center Parks Whinfell Forest is another option, situated half-way between Hale House and Penrith. The minimum stay is three nights, lodges start from ~£375. </p>
         <h3 class="mt-40">Airbnb</h3>
-        <p>some info about some options Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation .</p>
+        <p>Also exists.</p>
       </div>
      </div>
   </div>
