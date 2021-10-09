@@ -97,14 +97,11 @@ a:active {
          <p><a href="https://www.booking.com/hotel/gb/no-3-penrith.de.html?aid=2167732;label=97df25c60f1311ec83aaadcbda48b2b7;sid=2843ed21938d16f734f36a15c5d19f01;all_sr_blocks=329631702_192583720_2_1_0;checkin=2022-08-05;checkout=2022-08-07;dest_id=-2605225;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=9;highlighted_blocks=329631702_192583720_2_1_0;hpos=9;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=329631702_192583720_2_1_0__16000;srepoch=1632083007;srpvid=83d38f5f9089013e;type=total;ucfs=1&#hotelTmpl">No 3 (B&B)</a> 9.7/10 on booking.com, ~£75 per night for a double room</p>
          <p><a href="https://www.booking.com/hotel/gb/edengate-guest-house.de.html?aid=2167732;label=97df25c60f1311ec83aaadcbda48b2b7;sid=2843ed21938d16f734f36a15c5d19f01;all_sr_blocks=65164303_326664917_0_1_0;checkin=2022-08-05;checkout=2022-08-07;dest_id=-2605225;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=11;highlighted_blocks=65164303_326664917_0_1_0;hpos=11;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=65164303_326664917_0_1_0__16400;srepoch=1632083007;srpvid=83d38f5f9089013e;type=total;ucfs=1&#hotelTmpl">Eden Gate Guesthouse</a> 9.6/10 on booking.com, ~£75 per night for a double room</p>
         </ul>
-        <h3 class="mt-40">Hotels in Surrounding Area</h3>
+        <h3 class="mt-40">Hotels and B&Bs etc in Surrounding Area</h3>
+        <p>Appleby, Temple Sowerby, and Bolton are all about a 10 min drive. </p>
         <ul>
           <p><a href="http://www.applebymanor.co.uk/">Appleby Manor Hotel</a></p>
           <p><a href="http://www.edenhallhotel.co.uk/">Eden Hall Country House Hotel, </a></p>
-        </ul>
-        <h3 class="mt-40">B&Bs etc in Surrounding Area</h3>
-        <p>Appleby, Temple Sowerby, and Bolton are all about a 10 min drive. </p>
-        <ul>
           <p><a href="http://www.tuftonarmshotel.co.uk/">The Tufton Arms</a>, Appleby. 8/10 on booking .com, ~£130 per night for a souble room.</p>
           <p><a href="http://www.royaloakappleby.co.uk/">Royal Oak Inn</a>, Appleby. 9.1/0 on booking.com, ~£100 per night for a double room.</p>
           <p><a href="https://www.barrowgarth.com/">Barrowgarth Guesthouse</a>, Appleby. 9.6/10 on booking.com, ~£95 per night for a double room.</p>
