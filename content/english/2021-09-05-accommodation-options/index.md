@@ -60,7 +60,7 @@ a:active {
       <div class="block">
         <h3 class="mt-40">Bring Your Own Tent/Van </h3>
         <p>Free</p>
-        <p>You can camp in the field/garden. Set up whenever you want, toilets, showers, and teas & coffees are available in the house.</p>
+        <p>You can camp in the field/garden. Set up whenever you want. Toilets, showers, and teas & coffees are available in the house.</p>
       </div>
      </div>
   </div>
@@ -77,7 +77,7 @@ a:active {
     <div class="block">
       <h3 class="mt-40">Glamping</h3>
         <p>£40 - £100 per person </p>
-        <p>Let us know if you are interested in having a glamping tent set up for you and we can organise it with the local glamping dealers. You can get a 5 metre bell tent for about £200 which could sleep up to 6. Or a 4 person tent for £155 or a two person tent for. If you are interested, let us know and we can provide you with a more detailed menu of options.</p>
+        <p>Let us know if you are interested in having a glamping tent set up for you and we can organise it with the local glamping dealers. You can get a five metre bell tent for about £200 which could sleep up to six, or a four person tent for £155 or a two person tent for £100. If you are interested, let us know and we can provide you with a more detailed menu of options.</p>
     </div>
   </div>
 </div>
