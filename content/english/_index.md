@@ -1,11 +1,11 @@
 ---
 about:
   content: " 
-  <p>Ceremony in the Garden at 3PM </p>
-  <p>BBQ, drinks and dancing to follow.</p> 
+  <p>ceremony in the garden at 3pm </p>
+  <p>bbq, drinks and dancing to follow</p> 
   <hr>
-  <p>Wear whatever you like - we will be wearing a suit and dress respectively.</p> 
-  <p>It has been known to be cold and rainy in August so check the weather forecast!</p>
+  <p>wear whatever you like - we will be wearing a suit and dress respectively</p> 
+  <p>it has been known to be cold and rainy in august so check the weather forecast!</p>
   
   "
   description: 

@@ -1,5 +1,5 @@
 ---
-bg_image: images/feature-bg.jpg
+bg_image: images/malin_art.png
 description: 
 title: Contact
 menu:

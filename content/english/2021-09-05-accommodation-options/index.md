@@ -82,12 +82,18 @@ a:active {
   </div>
 </div>
 </div>
+
 <div class="container">
-    <div class="row">
+  <h2 class="mt-40">Further Afield</h2>
+  <p> If your staying longer and/or if you would like more comfort. </p>
+  <div class="row">
+    <div class="col-md-5 col-sm-12">
+      <div class="block">
+        <img src="/images/lakes3.png" class="img-responsive" alt="Img">
+      </div>
+    </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h2 class="mt-40">Further Afield</h2>
-        <p> If your staying longer and/or if you would like more comfort. </p>
         <h3 class="mt-40">Hotels in Penrith</h3>
         <ul>
           <p><a href="https://www.premierinn.com/gb/en/hotels/england/cumbria/penrith/penrith.html?cid=GLBC_PENNEW">Premier Inn, Penrith</a> 4.3/5 stars on google reviews ~£45 per night</p> 
@@ -97,6 +103,17 @@ a:active {
          <p><a href="https://www.booking.com/hotel/gb/no-3-penrith.de.html?aid=2167732;label=97df25c60f1311ec83aaadcbda48b2b7;sid=2843ed21938d16f734f36a15c5d19f01;all_sr_blocks=329631702_192583720_2_1_0;checkin=2022-08-05;checkout=2022-08-07;dest_id=-2605225;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=9;highlighted_blocks=329631702_192583720_2_1_0;hpos=9;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=329631702_192583720_2_1_0__16000;srepoch=1632083007;srpvid=83d38f5f9089013e;type=total;ucfs=1&#hotelTmpl">No 3 (B&B)</a> 9.7/10 on booking.com, ~£75 per night for a double room</p>
          <p><a href="https://www.booking.com/hotel/gb/edengate-guest-house.de.html?aid=2167732;label=97df25c60f1311ec83aaadcbda48b2b7;sid=2843ed21938d16f734f36a15c5d19f01;all_sr_blocks=65164303_326664917_0_1_0;checkin=2022-08-05;checkout=2022-08-07;dest_id=-2605225;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=11;highlighted_blocks=65164303_326664917_0_1_0;hpos=11;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=65164303_326664917_0_1_0__16400;srepoch=1632083007;srpvid=83d38f5f9089013e;type=total;ucfs=1&#hotelTmpl">Eden Gate Guesthouse</a> 9.6/10 on booking.com, ~£75 per night for a double room</p>
         </ul>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-5 col-sm-12">
+      <div class="block">
+        <img src="/images/lakes2.png" class="img-responsive" alt="Img">
+      </div>
+    </div>
+    <div class="col-md-6 col-sm-12">
+      <div class="block">
         <h3 class="mt-40">Hotels and B&Bs etc in Surrounding Area</h3>
         <p>Appleby, Temple Sowerby, and Bolton are all about a 10 min drive. </p>
         <ul>
@@ -109,13 +126,24 @@ a:active {
           <p><a href="https://www.templesowerby.com/">The House</a>, Temple Sowerby. 9.1/10 on booking.com, ~£100 per night for a double room.</p>
           <p><a href="https://www.newcrowninn.co.uk/">The New Crown Inn</a>, Bolton. 9.2/10 on booking.com, ~£100 per night for a double room.</p>
         </ul>
-        <h3 class="mt-40">Center Parks</h3>
-        <p>Center Parks Whinfell Forest is another option, situated half-way between Hale House and Penrith. The minimum stay is three nights, lodges start from ~£375. </p>
-        <h3 class="mt-40">Airbnb</h3>
-        <p>Also exists.</p>
-      </div>
+        </div>
      </div>
   </div>
+  <div class="row">
+        <div class="col-md-5 col-sm-12">
+          <div class="block">
+            <img src="/images/lakes1.png" class="img-responsive" alt="Img">
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <div class="block">
+            <h3 class="mt-40">Center Parks</h3>
+            <p>Center Parks Whinfell Forest is another option, situated half-way between Hale House and Penrith. The minimum stay is three nights, lodges start from ~£375. </p>
+            <h3 class="mt-40">Airbnb</h3>
+            <p>Also exists.</p>
+          </div>
+        </div>
+      </div>
 </div>
 </body>
 
