@@ -5,14 +5,6 @@ cta:
 description: this is meta description
 draft: false
 layout: pricing
-menu:
-  footer:
-    name: Preise
-    weight: 4
-  main:
-    name: Preise
-    parent: Mehr
-    weight: 2
 pricing:
   enable: true
   pricing_table:
@@ -49,5 +41,5 @@ pricing:
     - Basic SEO
     - Email Marketing
     - 24/7 Tech Support
-title: Unsere Preise
+title: Our Pricing
 ---

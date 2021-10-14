@@ -1,5 +1,7 @@
 ---
-author: Mark Dinn
+author:
+- Mark Dinn
+- John Doe
 bg_image: images/feature-bg.jpg
 categories:
 - Artificial Intelligence

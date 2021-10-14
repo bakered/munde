@@ -4,16 +4,8 @@ description: this is meta description
 draft: false
 lastmod: 2021-04-01T00:00:00
 layout: faq
-menu:
-  footer:
-    name: Häufige Fragen
-    weight: 5
-  main:
-    name: Häufige Fragen
-    parent: Mehr
-    weight: 3
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-title: Häufige Fragen
+title: Frequently Asked Questions
 ---
 
 ### Welcome to Airspace!

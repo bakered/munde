@@ -37,14 +37,6 @@ featured_service:
     icon: ion-lightbulb
     name: Game Development
 layout: service
-menu:
-  footer:
-    name: Dienstleistung
-    weight: 3
-  main:
-    name: Dienstleistung
-    parent: Mehr
-    weight: 1
 service:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
@@ -84,5 +76,5 @@ service:
     icon: ion-earth
     name: Brand Identity
   title: Our Services
-title: Dienstleistungen
+title: Service
 ---
