@@ -42,7 +42,7 @@ a:active {
 
 <div class="container">
       <div class="block">
-        <p>Hale House befindet sich im <a href="http://www.visiteden.co.uk/explore-eden/the-eden-valley">Eden Valley</a> zwischen den Pennines und dem Lake District. Penrith und Appleby sind größere Orte in der Nähe. Der Lake District ist ein beliebtes Urlaubsziel mit zahlreichen Unterkünften und wunderschöner Landschaft. Es lohnt sich, ein paar Tage länger zu bleiben.</p>
+        <p>Hale House befindet sich im <a href="http://www.visiteden.co.uk/explore-eden/the-eden-valley">Eden Valley</a> zwischen den Pennines und dem Lake District. Penrith und Appleby sind größere Orte in der Nähe. Der Lake District ist aufgrund seiner wunderschönen Landschaft ein beliebtes Urlaubsziel mit zahlreichen Übernachtungsmöglichkeiten. Insbesondere in den Sommermonaten ist die Gegend aber auch gut besucht, sodass wir euch empfehlen, eure Unterkunft rechtzeitig zu buchen. </p>
         <h2 class="mt-40">Am Festtag</h2>
         <p> Wenn ihr nach dem Feiern einfach ins Bett fallen wollt, könnt ihr auf dem Grundstück übernachten.</p>
   </div>

@@ -47,8 +47,8 @@ params:
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  image: images/logom_e6.png
-  logo: images/logom_e6.png
+  image: images/logom_e7.png
+  logo: images/logom_e7.png
   logo_width: 151px
   plugins:
     css:
