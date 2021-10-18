@@ -12,7 +12,7 @@ about:
     <p>bitte bedenkt, dass es in nordengland regnerische, kalte augusttage geben soll, an denen natürlich gilt: es gibt kein schlechtes wetter, sondern nur die falsche kleidung</p>
     <hr>
     <p>RSVP<y/p>
-    <p>bitte bis zum 30. März</p>
+    <p>bitte bis zum 30. märz 2022</p>
     <hr>
     <p>wir freuen uns, mit euch zu feiern!</p>
 

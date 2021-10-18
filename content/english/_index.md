@@ -1,12 +1,17 @@
 ---
 about:
   content: " 
-  <p>ceremony in the garden at 3:30PM</p> 
+  <p>ceremony in the garden</p>
+  <p>at 3:30 pm</p> 
   <p>bbq, drinks and dancing to follow</p> 
   <hr>
   <p>wear whatever you like - we will be wearing a suit and dress respectively</p> 
   <p>it has been known to be cold and rainy in august so check the weather forecast!</p>
-  <p>please rsvp by 30 March</p>
+  <hr>
+  <p>RSVP</p>
+  <p>by 30 march 2022</p>
+  <hr>
+  <p>we are looking forward to celebrating with you!</p>
   "
   description: 
   enable: true

@@ -25,4 +25,4 @@ Manchester, Glasgow and Leeds airports are all approximately 2 hours drive from 
 
 ## Travel to and from Accomodation
 
-If you are camping or glamping then you need only walk to your tent. If you are staying elsewhere in the Eden Valley and are interested in taxi sharing then let us know. 
+If you are camping or glamping then you need only walk to your tent. If you are staying elsewhere in the Eden Valley taxis or a transfer can be arranged. 
