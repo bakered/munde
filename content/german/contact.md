@@ -5,7 +5,7 @@ title: Kontact
 menu:
   main:
     name: Kontact
-    parent: More
+    parent: Mehr
     weight: 6
   footer:
     name: Kontact

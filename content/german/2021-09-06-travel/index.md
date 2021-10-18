@@ -1,5 +1,5 @@
 ---
-title: Reise
+title: Anreise
 author: ''
 date: '2021-09-06'
 slug: []
@@ -8,10 +8,10 @@ tags: []
 bg_image: images/malin_art.png
 menu:
   main:
-    name: Reise
+    name: Anreise
     weight: 3
   footer:
-    name: Reise
+    name: Anreise
     weight: 3
 ---
 

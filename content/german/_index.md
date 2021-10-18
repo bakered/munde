@@ -1,11 +1,21 @@
 ---
 about:
-  content: " 
-  <p>ja-wort im garten 3pm </p>
-  <p>anschließend bbq, drinks & tanz aauf dem feld & im festzelt</p> 
-  <hr>
-  <p>zieht an, worin ihr euch festlich & wohl fühlt. </p> 
-  <p>bitte bendenkt dass es in nordengland regnerisch, kalteaugusttage geben soll, an denen natürlich gilt: es gibt kein schlechtes wetter, sondern nur die falsche kleidung</p>
+  content: "
+  
+    <p>15:30 Uhr </p>
+    <p>ja-wort im garten</p>
+    <p>anschließend</p> 
+    <p>bbq, drinks & tanz</p>
+    <p>auf dem feld & im festzelt</p> 
+    <hr>
+    <p>zieht an, worin ihr euch festlich & wohl fühlt. </p> 
+    <p>bitte bedenkt, dass es in nordengland regnerische, kalte augusttage geben soll, an denen natürlich gilt: es gibt kein schlechtes wetter, sondern nur die falsche kleidung</p>
+    <hr>
+    <p>RSVP<y/p>
+    <p>bitte bis zum 30. März</p>
+    <hr>
+    <p>wir freuen uns, mit euch zu feiern!</p>
+
   
   "
   description: 

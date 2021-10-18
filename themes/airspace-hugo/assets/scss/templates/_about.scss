@@ -17,6 +17,7 @@
   }
   
   .block{
+    width: 400px;
     margin: auto;
     
     h2 {
@@ -31,8 +32,12 @@
       text-align: center;
     }
     
+    p.pblack{
+      color: black;
+    }
+    
     hr {
-      width: 50%;
+      width: 100%;
     }
 
     img {
