@@ -1,5 +1,5 @@
 ---
-bg_image: images/malin_art.png
+bg_image: images/malin_art2.webp
 description: 
 title: Kontact
 menu:

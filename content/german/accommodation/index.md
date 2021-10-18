@@ -5,7 +5,7 @@ date: '2021-09-05'
 slug: []
 categories: []
 tags: []
-bg_image: images/malin_art.png
+bg_image: images/malin_art2.webp
 menu:
   main:
     name: Unterkünfte

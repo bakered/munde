@@ -173,6 +173,7 @@ input[type="tel"] {
 
 .mt-40 {
   margin-top: 40px;
+   text-transform: uppercase;
 }
 
 .mt-50 {
@@ -308,7 +309,7 @@ input[type="tel"] {
       font-weight: 200;
       letter-spacing: 0.15em;
       margin-top: 0;
-      text-transform: capitalize;
+      text-transform: uppercase;
     }
 
     p {
