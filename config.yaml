@@ -98,7 +98,7 @@ languages:
   de:
     contentDir: content/german
     copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle
-      Rechte vorbehalten. Kunstwerk von Malin Mohr (https://www.instagram.com/malin_mohr).
+      Rechte vorbehalten. Kunstwerk von [Malin Mohr](https://www.instagram.com/malin_mohr).
     languageCode: de-DE
     languageName: Deutsch
     menu:
@@ -110,7 +110,7 @@ languages:
   en:
     contentDir: content/english
     copyright: Copyright &copy; 2021 [Themefisher] (https://themefisher.com). All
-       Rights reserved. Artwork by Malin Mohr (https://www.instagram.com/malin_mohr).
+       Rights reserved. Artwork by [Malin Mohr](https://www.instagram.com/malin_mohr).
     languageCode: en-US
     languageName: English
     menu:
