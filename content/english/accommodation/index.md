@@ -54,6 +54,7 @@ a:active {
     <div class="col-md-5 col-sm-12">
       <div class="block">
         <img src="/images/tent.jpg" class="img-responsive" alt="Img">
+        <br>
       </div>
     </div>
     <div class="col-md-6 col-sm-12">
@@ -72,6 +73,7 @@ a:active {
     <div class="block">
       <img src="/images/glamping1.jpg" class="img-responsive" alt="Img">
       <img src="/images/glamping2.jpg" class="img-responsive" alt="Img">
+      <br>
     </div>
   </div>
   <div class="col-md-7 col-sm-12">
@@ -91,6 +93,7 @@ a:active {
     <div class="col-md-5 col-sm-12">
       <div class="block">
         <img src="/images/lakes3.png" class="img-responsive" alt="Img">
+        <br>
       </div>
     </div>
     <div class="col-md-6 col-sm-12">
@@ -112,6 +115,7 @@ a:active {
     <div class="col-md-5 col-sm-12">
       <div class="block">
         <img src="/images/lakes2.png" class="img-responsive" alt="Img">
+        <br>
       </div>
     </div>
     <div class="col-md-6 col-sm-12">
@@ -136,6 +140,7 @@ a:active {
         <div class="col-md-5 col-sm-12">
           <div class="block">
             <img src="/images/lakes1.png" class="img-responsive" alt="Img">
+            <br>
           </div>
         </div>
         <div class="col-md-6 col-sm-12">
