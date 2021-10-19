@@ -8,7 +8,7 @@ about:
   <p>wear whatever you like - we will be wearing a suit and dress respectively</p> 
   <p>it has been known to be cold and rainy in august so check the weather forecast!</p>
   <hr>
-  <p>RSVP</p>
+  <h6>RSVP</h6>
   <p>by 30 march 2022</p>
   <hr>
   <p>we are looking forward to celebrating with you!</p>
@@ -24,7 +24,7 @@ banner:
   button:
     enable: true
     label: RSVP
-    link: 2021-09-06-rsvp
+    link: rsvp
   content: 6 August 2022 <br/> Hale House, Kirkby Thore, Penrith, CA10 1XS
   enable: true
   title: Mirja <br/> & Ed

@@ -47,8 +47,6 @@ a:active {
         <p> Wenn ihr nach dem Feiern einfach ins Bett fallen wollt, könnt ihr auf dem Grundstück übernachten.</p>
   </div>
 </div>
-<br>
-<br>
 <div class="container">
     <div class="row">
     <div class="col-md-5 col-sm-12">
@@ -58,7 +56,7 @@ a:active {
     </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h3 class="mt-40">Camping im eigenen Zelt oder Bus </h3>
+        <h3 class="mt-10">Camping im eigenen Zelt oder Bus </h3>
         <p>Free</p>
         <p>Ihr könnt euer eigenes Zelt aufschlagen oder euren Bus mitbringen und solange bleiben, wie ihr mögt. Toiletten, Duschen, Tee und Kaffee gibt es im Haus.</p>
       </div>
@@ -70,14 +68,15 @@ a:active {
 <div class="row">
   <div class="col-md-5 col-sm-12">
     <div class="block">
-      <img src="/images/glamping.jpg" class="img-responsive" alt="Img">
+      <img src="/images/glamping1.jpg" class="img-responsive" alt="Img">
+      <img src="/images/glamping2.jpg" class="img-responsive" alt="Img">
     </div>
   </div>
   <div class="col-md-7 col-sm-12">
     <div class="block">
-      <h3 class="mt-40">Glamping</h3>
-        <p>£40 - £100 per person </p>
-        <p>Wenn ihr möchtet, dass euch ein Zelt vor Ort aufgebaut wird, organisieren wir das gerne. Es besteht die Möglichkeit ein Zelt für bis zu sechs Personen für etwa 235€ zu buchen; 4-Personen-Zelte kosten etwa 155  und ein 2-Personen-Zelt etwa xxx. Meldet euch bei uns, wenn ihr Interesse an den Details habt. </p>
+      <h3 class="mt-10">Glamping</h3>
+        <p>€45 - €120 per person </p>
+        <p>Wenn ihr möchtet, dass euch ein Zelt vor Ort aufgebaut wird, organisieren wir das gerne. Es besteht die Möglichkeit ein Zelt für bis zu sechs Personen für etwa 235€ zu buchen; 4-Personen-Zelte kosten etwa 155  und ein 2-Personen-Zelt etwa 120€. Meldet euch bei uns, wenn ihr Interesse an den Details habt. </p>
     </div>
   </div>
 </div>
@@ -94,7 +93,7 @@ a:active {
     </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h3 class="mt-40">Hotels in Penrith</h3>
+        <h3 class="mt-10">Hotels in Penrith</h3>
         <p>Penrith ist 20 Minuten mit dem Auto von Hale House/Kirkby Thore entfernt. Dort gibt es viele schöne Hotels und B&Bs für alle Budgets. Hier einige Vorschläge für Übernachtungsmöglichkeiten dort:</p>
         <ul>
           <p><a href="https://www.premierinn.com/gb/en/hotels/england/cumbria/penrith/penrith.html?cid=GLBC_PENNEW">Premier Inn, Penrith</a> 4.3/5 Sterne bei Google Reviews, etwa 50 € pro Nacht/Doppelzimmer</p> 
@@ -107,6 +106,7 @@ a:active {
       </div>
     </div>
   </div>
+  <br>
   <div class="row">
     <div class="col-md-5 col-sm-12">
       <div class="block">
@@ -115,7 +115,7 @@ a:active {
     </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h3 class="mt-40">Pubs und B&Bs in den umliegenden Dörfern</h3>
+        <h3 class="mt-10">Pubs und B&Bs in den umliegenden Dörfern</h3>
         <p>Appleby, Temple Sowerby and Bolton sind in zehn Minuten mit dem Auto zu erreichen.</p>
         <p>Appleby, Temple Sowerby, and Bolton are all about a 10 min drive. </p>
         <ul>
@@ -131,6 +131,7 @@ a:active {
         </div>
      </div>
   </div>
+  <br>
   <div class="row">
         <div class="col-md-5 col-sm-12">
           <div class="block">
@@ -139,7 +140,7 @@ a:active {
         </div>
         <div class="col-md-6 col-sm-12">
           <div class="block">
-            <h3 class="mt-40">Center Parks</h3>
+            <h3 class="mt-10">Center Parks</h3>
             <p>liegt auf halben Weg zwischen Penrith und Hale House. Der Mindestaufenthalt dort sind drei Nächte, Hütten gibt es ab etwa 450 €.  </p>
             <h3 class="mt-40">Airbnb</h3>
             <p>Gibt es auch.</p>

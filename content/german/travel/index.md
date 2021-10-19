@@ -23,7 +23,7 @@ Hale House befindet sich im Eden Valley zwischen den Pennines und dem Lake Distr
 
 ##  Anreise nach Cumbria 
 
-Die Flughäfen von Manchester, Leeds und Glasgow sind alle etwa zwei Autostunden von Hale House entfernt, wobei die meisten Flüge von und nach Manchester fliegen. Vom Flughafen Manchester gibt es eine Zugverbindung nach Penrith. Übernachtungsmöglichkeiten dort findet ihr in der Rubrik Unterkünfte. 
+Die Flughäfen von Manchester, Leeds und Glasgow sind alle etwa zwei Autostunden von Hale House entfernt, wobei die meisten Flüge von und nach Manchester fliegen. Vom Flughafen Manchester gibt es eine Zugverbindung nach Penrith. Übernachtungsmöglichkeiten dort findet ihr in der Rubrik <a href="/de/accommodation/">Unterkünfte</a>. 
 Lasst uns gerne wissen, wie wir euch bei der Anreise zu dieser etwas abgelegenen Location unterstützen können und wir tun unser Bestes, um z.B. Fahrgemeinschaften und gegebenenfalls Transfers zu organisieren. 
 
 ## Transfer zur Unterkunft

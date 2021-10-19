@@ -2,16 +2,16 @@
 about:
   content: "
   
-    <p>15:30 Uhr </p>
+    <h6>15:30 Uhr </h6>
     <p>ja-wort im garten</p>
-    <p>anschließend</p> 
+    <h6>anschließend</h6> 
     <p>bbq, drinks & tanz</p>
     <p>auf dem feld & im festzelt</p> 
     <hr>
     <p>zieht an, worin ihr euch festlich & wohl fühlt. </p> 
     <p>bitte bedenkt, dass es in nordengland regnerische, kalte augusttage geben soll, an denen natürlich gilt: es gibt kein schlechtes wetter, sondern nur die falsche kleidung</p>
     <hr>
-    <p>RSVP<y/p>
+    <h6>RSVP</h6>
     <p>bitte bis zum 30. märz 2022</p>
     <hr>
     <p>wir freuen uns, mit euch zu feiern!</p>
@@ -29,7 +29,7 @@ banner:
   button:
     enable: true
     label: RSVP
-    link: 2021-09-06-rsvp
+    link: rsvp
   content: 6 August 2022 <br/> Hale House, Kirkby Thore, Penrith, CA10 1XS
   enable: true
   title: Mirja <br/> & Ed

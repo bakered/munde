@@ -58,7 +58,7 @@ a:active {
     </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h3 class="mt-40">Bring Your Own Tent/Van </h3>
+        <h3 class="mt-10">Bring Your Own Tent/Van </h3>
         <p>Free</p>
         <p>You can camp in the field/garden. Set up whenever you want. Toilets, showers, and teas & coffees are available in the house.</p>
       </div>
@@ -70,12 +70,13 @@ a:active {
 <div class="row">
   <div class="col-md-5 col-sm-12">
     <div class="block">
-      <img src="/images/glamping.jpg" class="img-responsive" alt="Img">
+      <img src="/images/glamping1.jpg" class="img-responsive" alt="Img">
+      <img src="/images/glamping2.jpg" class="img-responsive" alt="Img">
     </div>
   </div>
   <div class="col-md-7 col-sm-12">
     <div class="block">
-      <h3 class="mt-40">Glamping</h3>
+      <h3 class="mt-10">Glamping</h3>
         <p>£40 - £100 per person </p>
         <p>Let us know if you are interested in having a glamping tent set up for you and we can organise it with the local glamping dealers. You can get a five metre bell tent for about £200 which could sleep up to six, or a four person tent for £155 or a two person tent for £100. If you are interested, let us know and we can provide you with a more detailed menu of options.</p>
     </div>
@@ -94,7 +95,7 @@ a:active {
     </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h3 class="mt-40">Hotels in Penrith</h3>
+        <h3 class="mt-10">Hotels in Penrith</h3>
         <ul>
           <p><a href="https://www.premierinn.com/gb/en/hotels/england/cumbria/penrith/penrith.html?cid=GLBC_PENNEW">Premier Inn, Penrith</a> 4.3/5 stars on google reviews ~£45 per night</p> 
           <p><a href="https://www.travelodge.co.uk/hotels/218/penrith-hotel?utm_source=google&utm_medium=GHA_Organic&utm_campaign=GHA_Penrith&WT.tsrc=GHA_Organic">Travel Lodge, Penrith</a> 3.8/5 starts on google reviews ~£50 per night</p>
@@ -106,6 +107,7 @@ a:active {
       </div>
     </div>
   </div>
+  <br>
   <div class="row">
     <div class="col-md-5 col-sm-12">
       <div class="block">
@@ -114,7 +116,7 @@ a:active {
     </div>
     <div class="col-md-6 col-sm-12">
       <div class="block">
-        <h3 class="mt-40">Hotels and B&Bs etc in Surrounding Area</h3>
+        <h3 class="mt-10">Hotels and B&Bs etc in Surrounding Area</h3>
         <p>Appleby, Temple Sowerby, and Bolton are all about a 10 min drive. </p>
         <ul>
           <p><a href="http://www.applebymanor.co.uk/">Appleby Manor Hotel</a></p>
@@ -129,6 +131,7 @@ a:active {
         </div>
      </div>
   </div>
+  <br>
   <div class="row">
         <div class="col-md-5 col-sm-12">
           <div class="block">
@@ -137,7 +140,7 @@ a:active {
         </div>
         <div class="col-md-6 col-sm-12">
           <div class="block">
-            <h3 class="mt-40">Center Parks</h3>
+            <h3 class="mt-10">Center Parks</h3>
             <p>Center Parks Whinfell Forest is another option, situated half-way between Hale House and Penrith. The minimum stay is three nights, lodges start from ~£375. </p>
             <h3 class="mt-40">Airbnb</h3>
             <p>Also exists.</p>
