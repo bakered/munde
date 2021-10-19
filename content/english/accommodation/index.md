@@ -125,7 +125,7 @@ a:active {
         <ul>
           <p><a href="http://www.applebymanor.co.uk/">Appleby Manor Hotel</a></p>
           <p><a href="http://www.edenhallhotel.co.uk/">Eden Hall Country House Hotel, </a></p>
-          <p><a href="http://www.tuftonarmshotel.co.uk/">The Tufton Arms</a>, Appleby. 8/10 on booking .com, ~£130 per night for a souble room.</p>
+          <p><a href="http://www.tuftonarmshotel.co.uk/">The Tufton Arms</a>, Appleby. 8/10 on booking .com, ~£130 per night for a double room.</p>
           <p><a href="http://www.royaloakappleby.co.uk/">Royal Oak Inn</a>, Appleby. 9.1/0 on booking.com, ~£100 per night for a double room.</p>
           <p><a href="https://www.barrowgarth.com/">Barrowgarth Guesthouse</a>, Appleby. 9.6/10 on booking.com, ~£95 per night for a double room.</p>
           <p><a href="http://www.kingsarmstemplesowerby.co.uk">The Kings Arms</a>, Temple Sowerby. 8.1/10 on booking.com, ~£85 per night for a double room.</p>
