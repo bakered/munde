@@ -146,7 +146,7 @@ a:active {
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <h3 class="mt-10">Center Parks</h3>
-            <p>liegt auf halben Weg zwischen Penrith und Hale House. Der Mindestaufenthalt dort sind drei Nächte, Hütten gibt es ab etwa 450 €.  </p>
+            <p><a href="https://www.centerparcs.co.uk/discover-center-parcs/holiday-locations/whinfell-forest.html">Center Parks</a> liegt auf halben Weg zwischen Penrith und Hale House. Der Mindestaufenthalt dort sind drei Nächte, Hütten gibt es ab etwa 450 €.  </p>
             <h3 class="mt-40">Airbnb</h3>
             <p>Gibt es auch.</p>
           </div>

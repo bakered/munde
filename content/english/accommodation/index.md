@@ -146,7 +146,7 @@ a:active {
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <h3 class="mt-10">Center Parks</h3>
-            <p>Center Parks Whinfell Forest is another option, situated half-way between Hale House and Penrith. The minimum stay is three nights, lodges start from ~£375. </p>
+            <p><a href="https://www.centerparcs.co.uk/discover-center-parcs/holiday-locations/whinfell-forest.html">Center Parks</a> Whinfell Forest is another option, situated half-way between Hale House and Penrith. The minimum stay is three nights, lodges start from ~£375. </p>
             <h3 class="mt-40">Airbnb</h3>
             <p>Also exists.</p>
           </div>
