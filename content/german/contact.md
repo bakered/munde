@@ -1,14 +1,14 @@
 ---
 bg_image: images/malin_art2.webp
 description: 
-title: Kontact
+title: Contact
 menu:
   main:
-    name: Kontact
+    name: Contact
     parent: Mehr
     weight: 6
   footer:
-    name: Kontact
+    name: Contact
     parent: Mehr
     weight: 6
 ---
