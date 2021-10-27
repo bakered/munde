@@ -121,7 +121,6 @@ a:active {
       <div class="block">
         <h3 class="mt-10">Pubs und B&Bs in den umliegenden Dörfern</h3>
         <p>Appleby, Temple Sowerby and Bolton sind in zehn Minuten mit dem Auto zu erreichen.</p>
-        <p>Appleby, Temple Sowerby, and Bolton are all about a 10 min drive. </p>
         <ul>
           <p><a href="http://www.applebymanor.co.uk/">Appleby Manor Hotel</a></p>
           <p><a href="http://www.edenhallhotel.co.uk/">Eden Hall Country House Hotel, </a></p>
