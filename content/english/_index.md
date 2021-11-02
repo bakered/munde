@@ -6,7 +6,7 @@ about:
   <p>bbq, drinks and dancing to follow</p> 
   <hr>
   <p>wear whatever you like - we will be wearing a suit and dress respectively</p> 
-  <p>it has been known to be cold and rainy in august so check the weather forecast!</p>
+  <p>also it's a field so stilettos might be ambitious and something warm probably clever even if it's sunny during the day</p>
   <hr>
   <h6>RSVP</h6>
   <p>by 30 march 2022</p>
