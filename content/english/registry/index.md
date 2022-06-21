@@ -8,13 +8,30 @@ tags: []
 bg_image: images/malin_art2.webp
 menu:
   main:
-    name: Registry Coming Soon
-    parent: More
+    name: Registry
     weight: 5
   footer:
-    name: Registry Coming Soon
-    parent: More
+    name: Registry
     weight: 5
 ---
 
-Coming Soon
+# Which Honeymoon? You Choose!
+
+Your presence at our wedding is gift enough, and unfortunately we won't be able to take any large presents home with us due to transport and customs problems. 
+  
+But if you did want to give a gift then you could either send one to: 
+  
+&nbsp;&nbsp;&nbsp;&nbsp;Mirja Stehnken,  
+&nbsp;&nbsp;&nbsp;&nbsp;Finowstraße 26,  
+&nbsp;&nbsp;&nbsp;&nbsp;12045 Berlin,  
+&nbsp;&nbsp;&nbsp;&nbsp;Germany  
+
+...or you could donate to one of the following honeymoon pots, and we will go on the honeymoon with the fullest pot.  
+
+## For donating in Pounds £: (€ Below)
+
+<iframe width="100%" height="580" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" src="https://munde.zankyou.com/uk/wedding-list/widget"></iframe>
+
+## For donating in Euros €:
+
+<iframe width="100%" height="580" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" src="https://mundebaker.zankyou.com/de/hochzeitsgeschenke/widget"></iframe>
