@@ -20,8 +20,9 @@ menu:
 Your presence at our wedding is gift enough, and unfortunately we won't be able to take any large presents home with us due to transport and customs problems. 
   
 But if you did want to give a gift then you could either send one to: 
-  
-&nbsp;&nbsp;&nbsp;&nbsp;Mirja Stehnken,  
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ed & Mirja Baker,   
+&nbsp;&nbsp;&nbsp;&nbsp;c/o Stehnken,  
 &nbsp;&nbsp;&nbsp;&nbsp;Finowstraße 26,  
 &nbsp;&nbsp;&nbsp;&nbsp;12045 Berlin,  
 &nbsp;&nbsp;&nbsp;&nbsp;Germany  
@@ -32,6 +33,10 @@ But if you did want to give a gift then you could either send one to:
 
 <iframe width="100%" height="580" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" src="https://munde.zankyou.com/uk/wedding-list/widget"></iframe>
 
+If the above doesn't work please click [here](https://munde.zankyou.com/uk)
+
 ## For donating in Euros €:
 
 <iframe width="100%" height="580" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" src="https://mundebaker.zankyou.com/de/hochzeitsgeschenke/widget"></iframe>
+
+If the above doesn't work please click [here](https://mundebaker.zankyou.com/de)
