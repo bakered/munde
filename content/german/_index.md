@@ -28,8 +28,8 @@ banner:
   bg_overlay: true
   button:
     enable: true
-    label: RSVP
-    link: rsvp
+    label: Wunschzettel
+    link: registry
   content: 6 August 2022 <br/> Hale House, Kirkby Thore, Penrith, CA10 1XS
   enable: true
   title: Mirja <br/> & Ed

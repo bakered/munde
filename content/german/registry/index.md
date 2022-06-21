@@ -25,11 +25,11 @@ Wenn ihr uns dennoch etwas schenken möchtet, freuen wir uns über einen kleinen
 
 <iframe width="100%" height="580" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" src="https://mundebaker.zankyou.com/de/hochzeitsgeschenke/widget"></iframe>
 
-Wenn das obige nicht funktioniert, klicken Sie bitte [hier](https://mundebaker.zankyou.com/de)
+Wenn die links nicht funktionieren, klickt bitte [hier](https://mundebaker.zankyou.com/de)
 
 ## In Pounds £:
 
 <iframe width="100%" height="580" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" src="https://munde.zankyou.com/uk/wedding-list/widget"></iframe>
 
-Wenn das obige nicht funktioniert, klicken Sie bitte [hier](https://munde.zankyou.com/uk)
+Wenn die links nicht funktionieren, klickt bitte [hier](https://munde.zankyou.com/uk)
 
