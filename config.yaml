@@ -105,7 +105,7 @@ languages:
       main:
         - hasChildren: yes
           name: Mehr
-          weight: 5
+          weight: 6
     weight: 3
   en:
     contentDir: content/english
@@ -117,5 +117,5 @@ languages:
       main:
         - hasChildren: yes
           name: More
-          weight: 5
+          weight: 6
     weight: 1
