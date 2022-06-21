@@ -8,12 +8,10 @@ tags: []
 bg_image: images/malin_art2.webp
 menu:
   main:
-    name: Wunschzettel Kommt demnächst
-    parent: Mehr
+    name: Wunschzettel
     weight: 5
   footer:
-    name: Wunschzettel Kommt demnächst
-    parent: Mehr
+    name: Wunschzettel
     weight: 5
 ---
 
