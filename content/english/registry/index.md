@@ -28,6 +28,7 @@ But if you did want to give a gift then you could either send one to:
 &nbsp;&nbsp;&nbsp;&nbsp;Germany  
 
 ...or you could donate to one of the following honeymoon pots, and we will go on the honeymoon with the fullest pot.  
+(but don't worry, we still get the money from the losing pots)
 
 ## For donating in Pounds £: (€ Below)
 
