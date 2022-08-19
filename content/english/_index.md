@@ -19,7 +19,7 @@ about:
   image2: images/edandmirja.jpg
   image3: images/hale_bunting.jpg
 banner:
-  bg_image: images/malin_art2.webp
+  bg_image: images/confetti3.gif
   bg_overlay: true
   button:
     enable: true
