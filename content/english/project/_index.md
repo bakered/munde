@@ -9,8 +9,8 @@ bg_image: images/malin_art2.webp
 menu:
   main:
     name: Pictures
-    weight: 7
+    weight: 2
   footer:
     name: Pictures
-    weight: 7
+    weight: 2
 ---

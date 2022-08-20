@@ -9,9 +9,11 @@ bg_image: images/malin_art2.webp
 menu:
   main:
     name: RSVP
+    parent: More
     weight: 4
   footer:
     name: RSVP
+    parent: More
     weight: 4
 ---
 <style>

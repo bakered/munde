@@ -1,5 +1,5 @@
 ---
-title: Penrith Posse
+title: Baker+
 author: ''
 date: '2022-08-19'
 slug: []
@@ -9,12 +9,12 @@ bg_image: images/malin_art2.webp
 category:
 - Cumbria
 draft: false
-image: images/penrithPosse.jpg
+image: images/baker.jpg
 ---
 
 <center>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BokCbR4"  ><a href="//imgur.com/a/BokCbR4">Penrith Posse</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/PQrR2Ly" data-context="false" ><a href="//imgur.com/a/PQrR2Ly"></a></blockquote>
 
 </center>
 

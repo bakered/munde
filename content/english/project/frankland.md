@@ -9,7 +9,7 @@ bg_image: images/malin_art2.webp
 category:
 - Cumbria
 draft: false
-image: images/franklands.jpg
+image: images/frankland.jpg
 ---
 
 <center>

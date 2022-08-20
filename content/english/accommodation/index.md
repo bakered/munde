@@ -9,10 +9,12 @@ bg_image: images/malin_art2.webp
 menu:
   main:
     name: Accommodation
-    weight: 2
+    parent: More
+    weight: 7
   footer:
     name: Accommodation
-    weight: 2
+    parent: More
+    weight: 7
 ---
 <head>
 <style>

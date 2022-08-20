@@ -9,9 +9,11 @@ bg_image: images/malin_art2.webp
 menu:
   main:
     name: Travel
+    parent: More
     weight: 3
   footer:
     name: Travel
+    parent: More
     weight: 3
 ---
 
